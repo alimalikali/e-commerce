@@ -5,14 +5,7 @@ export default function Cart() {
    
     <>
      <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-    <div>Cart</div>
-
+    
     </>
   )
 }
